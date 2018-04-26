@@ -1,6 +1,5 @@
-# Cyto.ai Hackathon
+# Cyto.ai Project
 
-18 - 24 April in Zurich!
+We moved our code to https://github.com/cytoai/cytoai! 
 
-Go to [wiki](https://github.com/DS3Lab/cytoai/wiki) for more details!
-
+Check out http://cyto.ai/ for more information!
